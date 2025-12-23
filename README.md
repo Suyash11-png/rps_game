@@ -1,2 +1,2 @@
 # rps_game
-THis is my  small rock,paper and scissor game using python programming.
+This is my  small rock,paper and scissor game using python programming.
